@@ -1,0 +1,6 @@
+framework module Pods_wired_com {
+  umbrella header "Pods-wired.com-umbrella.h"
+
+  export *
+  module * { export * }
+}
